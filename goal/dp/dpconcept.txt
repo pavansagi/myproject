@@ -1,0 +1,20 @@
+                                              
+dynamic programming
+
+  1)optimal substructure - solving smaller problems results for a larger problem
+  2)storing smaller states helps for solving larger states
+
+types
+* memoisation of states
+* finding combinatins
+* maximitation and minimization problems
+* where optimal substucture can be used
+
+we use mainly arrays for storing states
+ dp[] dp[][]
+
+use vectors to initialze with 0
+
+  ***** FINDING THE EQUATION TO SOLVE PROBLEM ***** 
+
+              
