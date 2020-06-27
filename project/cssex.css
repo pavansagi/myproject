@@ -1,0 +1,23 @@
+img {
+	width:100%;
+	height:100%;
+	float:left;
+	margin:1.66%;
+
+}
+.h1, h1{
+	font-size: 3.5rem;
+}
+.bdy{
+	padding-top: 20px;
+}
+.jumbotron{
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+.navbar{
+	background: #2c3e50;
+}
+.fas{
+	size:100px;
+}
